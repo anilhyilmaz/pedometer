@@ -1,16 +1,2 @@
-# pedometerproject
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1637350922](https://user-images.githubusercontent.com/13693800/142682787-a9822006-81d0-40ba-bdd7-cae6a3b6cb1c.png)
+![Screenshot_1637350910](https://user-images.githubusercontent.com/13693800/142682798-94f61b69-6f75-4fb8-8434-ea80b20a3ab8.png)
